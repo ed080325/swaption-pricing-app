@@ -148,7 +148,7 @@ if not warning:
                        height=40))
         ])
         fig1.update_layout(
-            height=81*T,
+            height=81*T+2,
             margin=dict(l=5, r=5, b=0, t=2)
            )
         st.markdown(f"""
