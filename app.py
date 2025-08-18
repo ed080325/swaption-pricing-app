@@ -149,7 +149,7 @@ if not warning:
         ])
         fig1.update_layout(
             height=81*T,
-            margin=dict(l=0, r=0, b=0, t=0)
+            margin=dict(l=5, r=5, b=0, t=0)
            )
         st.markdown(f"""
             <div style="
